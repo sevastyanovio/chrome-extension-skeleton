@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Skelethon Chrome Extension",
-  "description": "Skelethon Chrome Extension",
+  "name": "Skeleton Chrome Extension",
+  "description": "Skeleton Chrome Extension",
   "version": "0.1",
 
   "browser_action": {
