@@ -1,1 +1,0 @@
-{"version":3,"sources":["app/js/init.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AACA;AACA;AACA;AAHA;AAAA","file":"extension/build/app.js","sourcesContent":["'use strict';\n\nvar test = 'test';\n"]}

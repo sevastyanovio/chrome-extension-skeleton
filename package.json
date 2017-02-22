@@ -1,9 +1,10 @@
 {
-  "name": "brunch-app",
-  "description": "Brunch.io application",
+  "name": "Skelethon Chrome Extension",
+  "description": "Skelethon Chrome Extension",
   "private": true,
-  "author": "Brunch",
+  "author": "Roman Sevastyanov <roman@sevastyanov.io> (http://sevastyanov.io/)",
   "version": "0.0.1",
+  "license" : "MIT",
   "repository": "",
   "scripts": {
     "start": "brunch watch --server",

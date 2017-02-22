@@ -1,2 +1,5 @@
 *.sublime-*
 /node_modules
+/extension/build/*
+!/extension/build/.gitkeep
+.DS_Store
